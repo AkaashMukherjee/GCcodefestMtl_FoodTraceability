@@ -1,0 +1,31 @@
+Boundaries: 
+
+To get people in:
+Government creates an extra evaluation criterium in their food safety regulatory system based on participation in 
+a tokenized ecosystem for peer assesment of your food security.
+
+To create inertia for value of tokens:
+Government does a controlled buyback of tokens. The price of the token is proportionnal to the amount of money saved 
+on inspection because less inspectors are sent out:
+Because more transparent data shows who's doing the right stuff (upstream/prevention)
+(easier to isolate where inspection is most needed, less inspections to achieve same p-value (seuil de confiance))
+Easier to trace timestamps and batches of food (downstream/
+recalls)
+
+
+1. interface to put data into the system
+
+2. get paid in tokens 
+  for value of the data (value based on an algorithm, ratings etc...)
+  verification of transactions,
+Algorithm placeholder:
+
+//execute on each node before write
+function write(dataJSON) {
+	//algorithm
+	return dataJSON
+}
+
+
+3. interface for marketplace for tokens, services (maybe just for now allow to buy/sell tokens for dollars,
+later allow bids for services)
