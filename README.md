@@ -80,5 +80,5 @@ R is your reputation score
 
 ## The reputation system
 
-At this point in the project, the problem of establishing the reputation score has not been thought through completly. We are exploreing diffenrent possibilities. Reputation score could be established in an automated maner based on your participation in the system, the velocity of your tokens, your amount of stake, etc. It can also be established with an other voting mechanism. But this still has to be determined.
+At this point in the project, the problem of establishing the reputation score has not been thought through completly. We are exploring diffenrent possibilities. Reputation score could be established in an automated manner based on participation in the system, the velocity of your tokens, your amount of stake, etc. It can also be established with an other voting mechanism. But this still has to be determined.
 
