@@ -1,5 +1,6 @@
-### GCcodefestMtl_FoodTraceability
-The CFIA Food Safety Information System (FSIS): a tokenized ecosystem for improving food traceability and security
+# GCcodefestMtl_FoodTraceability
+
+# The CFIA Food Safety Information System (FSIS): a tokenized ecosystem for improving food traceability and security
 
 ## Problem Statement 
 
@@ -21,8 +22,6 @@ The FSIS we propose is a peer-review system with less government oversight using
 
 The distribution of tokens is the incentivization mechanism needed to encourage the participation of the industry actors in the system. The transaction of these tokens, including their distribution and exchange, are enabled by blockchain technologies. In this regard, the FSIS can be viewed as a blockchain technology.
 
-
-
 ## Incentive mechanism
 
 Every actor participates in the network by first sharing their food safety relevant data whenever requested by another participant above them in the food supply chain, namely their clients.
@@ -30,4 +29,47 @@ Every actor participates in the network by first sharing their food safety relev
 They are also encouraged to evaluate the data of upstream participants, namely their suppliers. They do so by voting on the relevance, quality and quantity of the provided data using their tokens as a proof of their stake. 
 
 Actors have thus an economic advantage in sharing good quality data that encourage others to vote for them. A reputation system score is also attributed to each actor for their participation in the system. The higher their reputation, the higher their future reward. This incentivization mechanism is designed to create a fortuitous feedback loop toward more data sharing, transparency, ultimately improving food security and traceability.
+
+## Block reward function
+
+Through the distribution of tokens, every actor in the system is incentivized to:
+
+1) Share their safety and traceability related data with their current and potential clients UP in the supply chain.
+
+2) Evaluate the quality, quantity and relevance of the data provided by their current and potential suppliers DOWN in the supply chain in terms of food traceability, security and transparency. 
+
+### Incentivization for sharing data
+The expected reward for sharing data with your clients can be expressed with the following equation:
+
+E(Rshare) = Sum_over_clients(Si * Ri) * T
+
+Where:
+
+Si is the stake client i puts in your data
+Ri is the reputation score of client i
+T is the amount of tokens awarded during this interval
+NB.: The sum is over all (current and potential) clients with whom you proovably shared data during the interval.
+
+### Incentivization for curating data
+The expected reward for evaluating your suppliers’ data can be expressed with the following equation:
+
+E(Rcuration) = Sum_over_suppliers(Sj * Rj) * T
+
+Where:
+
+Sj is the stake you put in supplier i’s data
+Rj is the reputation score of supplier j
+T is the amount of tokens awarded during this interval
+NB.: The sum is over all (current and potential) suppliers who proovably shared data with you during the interval.
+
+### Total reward function
+
+The total expected reward you can get from share and curating data in this ecosystem is the following:
+E(Rtotal) = [E(Rsharing) + E(Rcuration)] * R
+
+Where:
+
+R is your reputation score
+
+
 
