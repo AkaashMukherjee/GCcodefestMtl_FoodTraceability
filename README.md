@@ -41,35 +41,44 @@ Through the distribution of tokens, every actor in the system is incentivized to
 ### Incentivization for sharing data
 The expected reward for sharing data with your clients can be expressed with the following equation:
 
-E(Rshare) = Sum_over_clients(Si * Ri) * T
+E(R_share) = Sum_over_clients(Si * Ri) * T
 
 Where:
 
 Si is the stake client i puts in your data
+
 Ri is the reputation score of client i
+
 T is the amount of tokens awarded during this interval
+
 NB.: The sum is over all (current and potential) clients with whom you proovably shared data during the interval.
 
 ### Incentivization for curating data
 The expected reward for evaluating your suppliers’ data can be expressed with the following equation:
 
-E(Rcuration) = Sum_over_suppliers(Sj * Rj) * T
+E(R_curation) = Sum_over_suppliers(Sj * Rj) * T
 
 Where:
 
 Sj is the stake you put in supplier i’s data
+
 Rj is the reputation score of supplier j
+
 T is the amount of tokens awarded during this interval
+
 NB.: The sum is over all (current and potential) suppliers who proovably shared data with you during the interval.
 
 ### Total reward function
 
 The total expected reward you can get from share and curating data in this ecosystem is the following:
-E(Rtotal) = [E(Rsharing) + E(Rcuration)] * R
+
+E(Rtotal) = [E(R_sharing) + E(R_curation)] * R
 
 Where:
 
 R is your reputation score
 
+## The reputation system
 
+At this point in the project, the problem of establishing the reputation score has not been thought through completly. We are exploreing diffenrent possibilities. Reputation score could be established in an automated maner based on your participation in the system, the velocity of your tokens, your amount of stake, etc. It can also be established with an other voting mechanism. But this still has to be determined.
 
