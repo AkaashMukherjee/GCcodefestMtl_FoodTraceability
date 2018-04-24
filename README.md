@@ -32,7 +32,19 @@ Every actor participates in the network by first sharing their food safety relev
 
 They are also encouraged to evaluate the data of downstream participants, namely their suppliers. They do so by voting on the relevance, quality and quantity of the provided data using their tokens as a proof of their stake. 
 
-Actors have thus an economic advantage in sharing good quality data that encourage others to vote for them. A reputation score is also attributed to each actor for their participation in the system. The higher their reputation, the higher their future reward. This incentivization mechanism is designed to create a fortuitous feedback loop toward more data sharing, transparency, ultimately improving food security and traceability.
+Actors have thus an economic advantage in sharing good quality data that encourage others to vote for them. A reputation score is also attributed to each actor for their participation in the system. The higher their reputation, the higher their future reward. This incentivization mechanism is designed to create a fortuitous feedback loop toward more data sharing, transparency, ultimately improving food security and traceability. The distribution of the tokens is done through a block reward function which is described later in this paper.
+
+## A tokenized ecosystem
+
+The proposed FSIS is a tokenized ecosystem in the sense that every actor adds some value to the network by its contribution while at the same time getting something valuable for themselves. This win-win situation creates a virtuous feedback loop that increases the value of the token itself. The following table shows a list of the actors and their contribution and interest in the system.
+
+| Actors                 |                Value they put in the system | Value they get from the system      |
+| ------------------------ | ------------------------------------------- | --------------------------------- |
+| Food industry compagnies | Food security and traceability related Data | Tokens for sharing and evaluating data |
+|Trusted 3rd party (audit firms)| Enforce the reputation system | Tokens for evaluating data|
+|IT services providers | Useful IT services to the members of the sytem  | Clients and data to work with |
+|Government of Canada | Initial financial value to the system through token buy-back programs | Data to work with to fulfill their mission of protecting the public.|
+
 
 ## Block reward function
 
@@ -84,23 +96,12 @@ Where:
 
 R is your reputation score
 
-## The reputation system
-
-At this point in the project, the problem of establishing the reputation score has not been thought through completly. We are exploring different possibilities. Reputation score could be established in an automated manner based on participation in the system, the velocity of your tokens, your amount of stake, etc. It can also be established with an other voting mechanism. But this still has to be determined.
-
-# Bounding curves
+### Bounding curves
 
 More to come on this ...
 
-# A tokenized ecosystem
+## The reputation system
 
-The proposed FSIS is a tokenized ecosystem in the sense that every actor adds some value to the network by its contribution while at the same time getting something valuable for themselves. This win-win situation creates a virtuous feedback loop that increases the value of the token itself. The following table shows a list of the actors and their contribution and interest inthe system.
-
-| Actors                 |                Value they put in the system | Value they get from the system      |
-| ------------------------ | ------------------------------------------- | --------------------------------- |
-| Food industry compagnies | Food security and traceability related Data | Tokens for sharing and evaluating |
-|Trusted 3rd party (audit firms)| Enforce the reputation system | Tokens for evaluating|
-|IT services providers | Useful IT services to the members  | Clients and data to work with |
-|Government of Canada | Initial financial value to the system through token by-back programs | Data to work with to fulfill their mission of protecting the public.|
+At this point in the project, the problem of establishing the reputation score has not been thought through completly. We are exploring different possibilities. Reputation score could be established in an automated manner based on participation in the system, the velocity of your tokens, your amount of stake, etc. It can also be established with an other voting mechanism. But this still has to be determined.
 
 
