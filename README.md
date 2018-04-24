@@ -20,11 +20,13 @@ The FSIS we propose is a peer-review system with less government oversight using
 
 ## How it works 
 
-The distribution of tokens is one of the incentivization mechanism needed to encourage the participation of the industry actors in the system. The transaction of these tokens, including their distribution and exchange, are enabled by blockchain technologies. In this regard, the FSIS can be viewed as a blockchain technology. 
+The distribution of tokens is one of the incentivization mechanism needed to encourage the participation of the industry actors in the system. The transaction of these tokens, including their distribution and exchange, are enabled by blockchain technologies. In this regard, the FSIS is a blockchain technology.
 
 This reward mechanism can be interesting for small players in the industry such as local producers who now have a practical way to monetize their data. Big players of the industry (mutli-million multi-national companies sush as Walmart) on the other hand would be less interested by this marginal gain opportunity. What they will most interested in is having the opportunity to substract themselves from the constant scrutiny of the CFIA by participating in the curation of the data provided by their suppliers. Encouraging the big players to participate in this system remains a major challenge. 
 
 ## Incentive mechanism
+
+Since data sharing and curation are the key components of this FSIS, the incentivization mechanism we propose is closely inspired by the one implemented by [Ocean Protocol](https://oceanprotocol.com/) the goal of which is to incentivize towards a large supply of relevant AI data & services. The system we propose builds on Ocean Protocol's by coupling the reward mechanism to a reputation system.  
 
 Every actor participates in the network by first sharing their food safety relevant data whenever requested by another participant. Most of these requests will come from actors above them in the food supply chain, namely their clients.
 
