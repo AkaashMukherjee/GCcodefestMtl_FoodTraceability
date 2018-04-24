@@ -76,7 +76,7 @@ NB.: The sum is over all (current and potential) suppliers who proovably shared 
 
 The total expected reward you can get from share and curating data in this ecosystem is the following:
 
-E(Rtotal) ~ [E(R_sharing) + E(R_curation)] * R
+E(R_total) ~ [E(R_sharing) + E(R_curation)] * R
 
 Where:
 
@@ -94,10 +94,11 @@ More to come on this ...
 
 The proposed FSIS is a tokenized ecosystem in the sense that every actor adds some value to the network by its contribution while at the same time getting something valuable for themselves. This win-win situation creates a virtuous feedback loop that increases the value of the token itself. The following table shows a list of the actors and their contribution and interest inthe system.
 
-Actors | Value they put in the system | Value they get from the system
-Food industry compagnies | Food security and traceability related Data | Tokens for sharing and evaluating
-Trusted 3rd party (audit firms)| Enforce the reputation system | Tokens for evaluating
-IT services | Useful services to the members  | Clients and data to work with
-Government of Canada | Initial financial value to the system through token by-back programs | Data to work with to fulfill their mission of protecting the public.
+| Actors                 |                Value they put in the system | Value they get from the system      |
+| ------------------------ | ------------------------------------------- | --------------------------------- |
+| Food industry compagnies | Food security and traceability related Data | Tokens for sharing and evaluating |
+|Trusted 3rd party (audit firms)| Enforce the reputation system | Tokens for evaluating|
+|IT services providers | Useful IT services to the members  | Clients and data to work with |
+|Government of Canada | Initial financial value to the system through token by-back programs | Data to work with to fulfill their mission of protecting the public.|
 
 
