@@ -36,7 +36,8 @@ Actors have thus an economic advantage in sharing good quality data that encoura
 
 ## A tokenized ecosystem
 
-The proposed FSIS is a tokenized ecosystem in the sense that every actor adds some value to the network by its contribution while at the same time getting something valuable for themselves. This win-win situation creates a virtuous feedback loop that increases the value of the token itself. The following table shows a list of the actors and their contribution and interest in the system.
+The proposed FSIS is a tokenized ecosystem in the sense that every actor adds some value to the network by its contribution while at the same time getting something valuable for themselves. Additionally, there should be the possibility of a token buy-back system where the government could use a percentage of costs savings (incurred as a by-product of increased data transparency and quantity) as a way to encourage the ecosystem. This is a win-win situation that creates a virtuous feedback loop, increasing the value of the token itself. The following table shows a list of the actors and their contribution and interest in the system.
+
 
 | Actors                 |                Value they put in the system | Value they get from the system      |
 | ------------------------ | ------------------------------------------- | --------------------------------- |
