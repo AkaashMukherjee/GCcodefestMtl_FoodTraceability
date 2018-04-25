@@ -45,6 +45,13 @@ The proposed FSIS is a tokenized ecosystem in the sense that every actor adds so
 |IT services providers | Useful IT services to the members of the sytem  | Clients and data to work with |
 |Government of Canada | Initial financial value to the system through token buy-back programs | Data to work with to fulfill their mission of protecting the public.|
 
+## Data ownership and privacy
+
+One key aspect of the project is to make sure every participant in the system maintains absolute controle over their data. They must at all time remain the owner of the provided data and be able to control access at their will. Without this prerequisite, adopting of the system will always be a problem.
+
+The data that will not be publicly available. What is intended to be public though is a certain amount of metadata, that would be stored on the blockchain. With this metadata, any actor in the system will know what data is available on any product, at any stage of the supply chain. The actor interested in accessing the data on a given batch of a given product would then issue a data access request to the data owner. The data owner is then free to accept or refuse the data access request, but we hope the incentive to share the data would overcome the reluctance.
+
+More to come ... (on PFSN ...)
 
 ## Block reward function
 
