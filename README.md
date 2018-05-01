@@ -2,6 +2,9 @@
 
 # The CFIA Food Safety Information System (FSIS): a tokenized ecosystem for improving food traceability and security
 
+Authors: Akaash Mukherjee and David Banville
+
+
 ## Problem Statement 
 
 The Canadian Food Inspection Agency (CFIA) has difficulty assessing food safety and traceability within the food supply chain because they lack access to relevant data from the actors of the industry. Corporations inside the food industry are reticent in sharing their data with the gouvernement for free, and without any guarantee. But without this data, the CFIA has problems accomplishing its mission in an increasingly complex and globalized industry.
@@ -111,5 +114,8 @@ More to come on this ...
 ## The reputation system
 
 At this point in the project, the problem of establishing the reputation score has not been thought through completly. We are exploring different possibilities. Reputation score could be established in an automated manner based on participation in the system, the velocity of your tokens, your amount of stake, etc. It can also be established with an other voting mechanism. But this still has to be determined.
+
+
+copyright 2018 Akaash Mukherjee and David Banville
 
 
