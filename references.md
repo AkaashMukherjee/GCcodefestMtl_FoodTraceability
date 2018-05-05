@@ -18,7 +18,13 @@
 4) [REGRET](https://pdfs.semanticscholar.org/74bc/a93334770b2507486a55336415cf081b46b3.pdf) reputation system
 5) [Beta reputation system](http://folk.uio.no/josang/papers/JI2002-Bled.pdf)
 
-# Software devellopement tools
+# Methodology and design
+
+3) [Towards a Practice of Token Engineering](https://blog.oceanprotocol.com/towards-a-practice-of-token-engineering-b02feeeff7ca)
+2) [A Crash Course in Mechanism Design for Cryptoeconomic Applications](https://medium.com/blockchannel/a-crash-course-in-mechanism-design-for-cryptoeconomic-applications-a9f06ab6a976)
+
+# Software IDE and blockchain platforms
 
 1) [Remix](https://remix.ethereum.org/#optimize=false&version=soljson-v0.4.23+commit.124ca40d.js)
 2) [Infura](https://infura.io/)
+3) [Parity](https://github.com/paritytech/parity)
