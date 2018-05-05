@@ -1,18 +1,18 @@
-## A list of references to read for the project
+# A list of references to read for the project
 
-# Related work
+## Related work
 
 1) [Ocean protocol](https://oceanprotocol.com/#papers)
 2) [TruSet](https://media.consensys.net/truset-is-building-the-foundation-of-trusted-accurate-data-82f1b9e96b8b) : Ethereum-based marketplaces help users collect, validate, and share business-critical reference data.
 3) [Weeve: Trust for IoT devices](https://medium.com/weeves-world/the-weeve-network-protocol-and-token-model-part-1-the-protocol-and-its-design-rationality-b7cac054162e)
 
-# Food Safety
+## Food Safety
 
 1) https://www.ibm.com/blogs/blockchain/2018/01/choose-your-blockchain-consortium-and-know-your-peers/
 2) https://www.cbinsights.com/research/blockchain-grocery-supply-chain/
 3) http://business.financialpost.com/technology/blockchain/how-to-put-the-bad-guys-out-of-business-with-blockchain
 
-# Building blocks
+## Building blocks
 
 1) [layered TCR](https://blog.oceanprotocol.com/the-layered-tcr-56cc5b4cdc45) by Trent McConaghy
 2) [Reputation on the Blockchain](https://medium.com/@robertgreenfieldiv/reputation-on-the-blockchain-624947b36897)
@@ -22,8 +22,10 @@
 6) [Token-Curated Registries 1.0](https://medium.com/@ilovebagels/token-curated-registries-1-0-61a232f8dac7)
 7) [Graded Token-Curated Decisions with Up-/Downvoting — Designing Cryptoeconomic Ranking and Reputation System](https://medium.com/@sebastian.gajek/graded-token-curated-decisions-with-up-downvoting-designing-cryptoeconomic-ranking-and-2ce7c000bb51)
 8) [Stake machines](https://medium.com/@DimitriDeJonghe/curated-governance-with-stake-machines-8ae290a709b4)
+9) [Token bonding curves explained](https://medium.com/@justingoro/token-bonding-curves-explained-7a9332198e0e)
+10) [Curated Proofs Markets: A Walk-Through of Ocean’s Core Token Mechanics](https://blog.oceanprotocol.com/curated-proofs-markets-a-walk-through-of-oceans-core-token-mechanics-3d50851a8005)
 
-# Methodology and design
+## Methodology and design
 
 1) [Towards a Practice of Token Engineering](https://blog.oceanprotocol.com/towards-a-practice-of-token-engineering-b02feeeff7ca)
 2) [A Crash Course in Mechanism Design for Cryptoeconomic Applications](https://medium.com/blockchannel/a-crash-course-in-mechanism-design-for-cryptoeconomic-applications-a9f06ab6a976)
