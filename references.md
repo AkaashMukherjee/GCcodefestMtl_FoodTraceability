@@ -5,7 +5,7 @@
 1) [Ocean protocol](https://oceanprotocol.com/#papers)
 2) [TruSet](https://media.consensys.net/truset-is-building-the-foundation-of-trusted-accurate-data-82f1b9e96b8b) : Ethereum-based marketplaces help users collect, validate, and share business-critical reference data.
 3) [Weeve: Trust for IoT devices](https://medium.com/weeves-world/the-weeve-network-protocol-and-token-model-part-1-the-protocol-and-its-design-rationality-b7cac054162e)
-4) [TE-food](https://www.te-food.com/solution.html) and their [competitors](https://medium.com/te-food/tagged/competition)
+4) [TE-food](https://www.te-food.com/solution.html) and their [competitors](https://medium.com/te-food/tagged/competition) and their [white paper](https://ico.tefoodint.com/te-food-white-paper.pdf)
 
 ## Food Safety
 
