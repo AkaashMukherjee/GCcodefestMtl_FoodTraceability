@@ -25,7 +25,8 @@
 8) [Stake machines](https://medium.com/@DimitriDeJonghe/curated-governance-with-stake-machines-8ae290a709b4)
 9) [Token bonding curves explained](https://medium.com/@justingoro/token-bonding-curves-explained-7a9332198e0e)
 10) [Curated Proofs Markets: A Walk-Through of Ocean’s Core Token Mechanics](https://blog.oceanprotocol.com/curated-proofs-markets-a-walk-through-of-oceans-core-token-mechanics-3d50851a8005)
-110 [Partial Lock Commit Reveal Voting System that utilizes ERC20 Tokens](https://github.com/ConsenSys/PLCRVoting)
+11) [Partial Lock Commit Reveal Voting System that utilizes ERC20 Tokens](https://github.com/ConsenSys/PLCRVoting)
+12) [Introducing Curation Markets](https://medium.com/@simondlr/introducing-curation-markets-trade-popularity-of-memes-information-with-code-70bf6fed9881)
 
 ## Methodology and design
 
