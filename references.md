@@ -13,7 +13,22 @@
 2) https://www.cbinsights.com/research/blockchain-grocery-supply-chain/
 3) http://business.financialpost.com/technology/blockchain/how-to-put-the-bad-guys-out-of-business-with-blockchain
 
-## Building blocks
+## Methodology and design
+
+### Token design and cryptoeconomy
+
+1) [Towards a Practice of Token Engineering](https://blog.oceanprotocol.com/towards-a-practice-of-token-engineering-b02feeeff7ca)
+2) [The Emergence of Cryptoeconomic Primitives](https://medium.com/@jacobscott/the-emergence-of-cryptoeconomic-primitives-14ef3300cc10)
+3) [Cryptoeconomics 101](https://thecontrol.co/cryptoeconomics-101-e5c883e9a8ff)
+
+### Game theory and mechanism design
+
+1) [A Crash Course in Mechanism Design for Cryptoeconomic Applications](https://medium.com/blockchannel/a-crash-course-in-mechanism-design-for-cryptoeconomic-applications-a9f06ab6a976)
+2) [Mechanism Theory](https://web.stanford.edu/~jacksonm/mechtheo.pdf)
+3) [Game theory notation and definitions cheat sheet](http://academics.hamilton.edu/economics/cgeorges/game-theory-files/Notation-Definitions.pdf)
+4) [Wikipedia glossary on game theory](https://en.wikipedia.org/wiki/Glossary_of_game_theory)
+
+### Cryptoeconomic building blocks
 
 1) [layered TCR](https://blog.oceanprotocol.com/the-layered-tcr-56cc5b4cdc45) by Trent McConaghy
 2) [Reputation on the Blockchain](https://medium.com/@robertgreenfieldiv/reputation-on-the-blockchain-624947b36897)
@@ -28,13 +43,7 @@
 11) [Partial Lock Commit Reveal Voting System that utilizes ERC20 Tokens](https://github.com/ConsenSys/PLCRVoting)
 12) [Introducing Curation Markets](https://medium.com/@simondlr/introducing-curation-markets-trade-popularity-of-memes-information-with-code-70bf6fed9881)
 
-## Methodology and design
-
-1) [Towards a Practice of Token Engineering](https://blog.oceanprotocol.com/towards-a-practice-of-token-engineering-b02feeeff7ca)
-2) [A Crash Course in Mechanism Design for Cryptoeconomic Applications](https://medium.com/blockchannel/a-crash-course-in-mechanism-design-for-cryptoeconomic-applications-a9f06ab6a976)
-3) [The Emergence of Cryptoeconomic Primitives](https://medium.com/@jacobscott/the-emergence-of-cryptoeconomic-primitives-14ef3300cc10)
-
-# Software IDE and blockchain platforms
+## Software IDE and blockchain platforms
 
 1) [Remix](https://remix.ethereum.org/#optimize=false&version=soljson-v0.4.23+commit.124ca40d.js)
 2) [Infura](https://infura.io/)
